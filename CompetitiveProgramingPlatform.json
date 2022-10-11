@@ -146,4 +146,11 @@
     "Interviev_prepations": "advanced",
     "websitelink": "https://workat.tech/"
   },
+   {
+    "id": "120",
+    "Website": "Code Studio",
+    "level": "All Levels",
+    "Interviev_prepations": "Intermediate",
+    "websitelink": "https://www.codingninjas.com/codestudio"
+  }
 ]
