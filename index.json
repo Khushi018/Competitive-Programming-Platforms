@@ -276,5 +276,13 @@
         "interview_preparations":"Begineer",
         "website_link":"https://www.topcoder.com/challenges"
          
+    },
+{
+        "id":28,
+        "Website":"workat.tech", 
+        "level":"beginner",
+        "interview_preparations":"moderate",
+        "website_link":"https://workat.tech/problem-solving/practice/topics"
+         
     }
 ]
